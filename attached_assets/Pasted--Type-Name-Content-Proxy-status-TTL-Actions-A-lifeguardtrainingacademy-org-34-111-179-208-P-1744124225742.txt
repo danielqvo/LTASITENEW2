@@ -1,0 +1,149 @@
+	
+Type
+
+Name
+
+Content
+
+Proxy status
+
+TTL
+
+Actions
+
+
+A
+lifeguardtrainingacademy.org
+34.111.179.208
+
+Proxied
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+MX
+lifeguardtrainingacademy.org
+alt4.aspmx.l.google.com
+
+10
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+MX
+lifeguardtrainingacademy.org
+alt3.aspmx.l.google.com
+
+10
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+MX
+lifeguardtrainingacademy.org
+alt2.aspmx.l.google.com
+
+5
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+MX
+lifeguardtrainingacademy.org
+alt1.aspmx.l.google.com
+
+5
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+MX
+lifeguardtrainingacademy.org
+aspmx.l.google.com
+
+1
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+NS
+lifeguardtrainingacademy.org
+ns30.domaincontrol.com
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+NS
+lifeguardtrainingacademy.org
+ns29.domaincontrol.com
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+TXT
+_dmarc
+"v=DMARC1; p=none; rua=mailto:contact@lifeguardtrainingacademy.org;"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+TXT
+google._domainkey
+"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp2SmGoIWH4GCLmQCON4kMlC6cUmDyGcBP99CS+UZm8EJCGH19rwfzQdX/EC+8gdkHDVUP93UI1+C0gvsWnwnaHZIR8BvEcXz6M3ylBrN86TR5QtsNAuB987KcjM3G8QuJItntFuE4DbLYWA1M3wveCpCl3qqco0Dwj7xT123hHtB8rOE0t0DTxybRMGHkmxtP" "LqJVcf0JeimqdNOh9z2mEBPAJQUAhSYVAB+dlRaI68DEjtH248UM65E6hZtWsJ72+FTMxS5m4JWCkMY/6N0ADm3Fs6zWgztPPJPNuNold1l+f2lir2E+lSjxGXNRzHdgMiukkDYTTftVXTGeg2dIwIDAQAB"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+TXT
+lifeguardtrainingacademy.org
+"replit-verify=b2b02d55-e235-46c5-acd1-7671d31810c6"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+TXT
+lifeguardtrainingacademy.org
+"v=spf1 include:dc-aa8e722993._spfm.lifeguardtrainingacademy.org ~all"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+TXT
+lifeguardtrainingacademy.org
+"google-site-verification=TUJSwJqc1YBWzh1a5aiM-X1xlLKxHeHOUyc-1lbafLM"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.
+
+
+TXT
+lifeguardtrainingacademy.org
+"google-gws-recovery-domain-verification=55980034"
+DNS only
+
+Auto
+EditWhen toggled open, an additional table row will be added below this row to enable editing DNS records.

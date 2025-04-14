@@ -1,0 +1,68 @@
+<svg width="600" height="450" viewBox="0 0 600 450" xmlns="http://www.w3.org/2000/svg">
+  <!-- Pool background -->
+  <rect width="600" height="450" fill="#e0f7fa" />
+  
+  <!-- Pool water -->
+  <rect x="50" y="100" width="500" height="300" fill="#29b6f6" />
+  
+  <!-- Pool edge -->
+  <rect x="30" y="80" width="540" height="20" fill="#90a4ae" />
+  <rect x="30" y="400" width="540" height="20" fill="#90a4ae" />
+  <rect x="30" y="80" width="20" height="340" fill="#90a4ae" />
+  <rect x="550" y="80" width="20" height="340" fill="#90a4ae" />
+  
+  <!-- Pool lane markers -->
+  <rect x="100" y="100" width="2" height="300" fill="white" />
+  <rect x="200" y="100" width="2" height="300" fill="white" />
+  <rect x="300" y="100" width="2" height="300" fill="white" />
+  <rect x="400" y="100" width="2" height="300" fill="white" />
+  <rect x="500" y="100" width="2" height="300" fill="white" />
+  
+  <!-- Swimming people -->
+  <!-- Person 1 (instructor) -->
+  <circle cx="150" cy="150" r="25" fill="#f5b041" /> <!-- Head -->
+  <rect x="125" y="175" width="50" height="30" fill="#e74c3c" /> <!-- Red uniform -->
+  <rect x="125" y="175" width="50" height="10" fill="#c0392b" /> <!-- Dark red band -->
+  <rect x="110" y="180" width="15" height="7" fill="#f5b041" /> <!-- Left arm extended -->
+  <rect x="175" y="180" width="25" height="7" fill="#f5b041" /> <!-- Right arm pointing/teaching -->
+  <rect x="135" y="205" width="10" height="20" fill="#f5b041" /> <!-- Left leg -->
+  <rect x="155" y="205" width="10" height="20" fill="#f5b041" /> <!-- Right leg -->
+  
+  <!-- Person 2 (student) -->
+  <circle cx="250" cy="190" r="20" fill="#fad7a0" /> <!-- Head -->
+  <rect x="230" y="210" width="40" height="25" fill="#3498db" /> <!-- Blue swimsuit -->
+  <rect x="220" y="215" width="10" height="5" fill="#fad7a0" /> <!-- Left arm -->
+  <rect x="270" y="215" width="10" height="5" fill="#fad7a0" /> <!-- Right arm -->
+  <rect x="240" y="235" width="8" height="15" fill="#fad7a0" /> <!-- Left leg -->
+  <rect x="252" y="235" width="8" height="15" fill="#fad7a0" /> <!-- Right leg -->
+  
+  <!-- Person 3 (student) -->
+  <circle cx="350" cy="230" r="20" fill="#f5cba7" /> <!-- Head -->
+  <rect x="330" y="250" width="40" height="25" fill="#2ecc71" /> <!-- Green swimsuit -->
+  <rect x="320" y="255" width="10" height="5" fill="#f5cba7" /> <!-- Left arm -->
+  <rect x="370" y="255" width="10" height="5" fill="#f5cba7" /> <!-- Right arm -->
+  <rect x="340" y="275" width="8" height="15" fill="#f5cba7" /> <!-- Left leg -->
+  <rect x="352" y="275" width="8" height="15" fill="#f5cba7" /> <!-- Right leg -->
+  
+  <!-- Person 4 (student diving) -->
+  <circle cx="450" cy="200" r="20" fill="#fef9e7" /> <!-- Head -->
+  <rect x="450" y="220" width="40" height="25" transform="rotate(45, 450, 220)" fill="#9b59b6" /> <!-- Purple swimsuit, rotated -->
+  <rect x="485" y="255" width="10" height="5" transform="rotate(45, 485, 255)" fill="#fef9e7" /> <!-- Right arm -->
+  <rect x="495" y="265" width="8" height="15" transform="rotate(45, 495, 265)" fill="#fef9e7" /> <!-- Right leg -->
+  <rect x="475" y="285" width="8" height="15" transform="rotate(45, 475, 285)" fill="#fef9e7" /> <!-- Left leg -->
+  
+  <!-- Rescue tubes on pool edge -->
+  <rect x="70" y="50" width="60" height="20" rx="10" fill="#e74c3c" />
+  <rect x="140" y="50" width="60" height="20" rx="10" fill="#e74c3c" />
+  <rect x="450" y="50" width="60" height="20" rx="10" fill="#e74c3c" />
+  
+  <!-- Lifeguard chair -->
+  <rect x="490" y="120" width="40" height="60" fill="white" />
+  <rect x="495" y="180" width="30" height="100" fill="white" />
+  
+  <!-- Small waves to indicate movement -->
+  <path d="M100,330 C110,325 120,335 130,330 C140,325 150,335 160,330" stroke="white" fill="none" stroke-width="2" />
+  <path d="M200,350 C210,345 220,355 230,350 C240,345 250,355 260,350" stroke="white" fill="none" stroke-width="2" />
+  <path d="M300,320 C310,315 320,325 330,320 C340,315 350,325 360,320" stroke="white" fill="none" stroke-width="2" />
+  <path d="M400,360 C410,355 420,365 430,360 C440,355 450,365 460,360" stroke="white" fill="none" stroke-width="2" />
+</svg>

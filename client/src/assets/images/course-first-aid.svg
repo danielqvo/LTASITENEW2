@@ -1,0 +1,8 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- First aid kit -->
+  <rect x="20" y="40" width="60" height="40" rx="5" fill="#e74c3c" />
+  <rect x="35" y="30" width="30" height="10" rx="3" fill="#c0392b" />
+  <!-- White cross -->
+  <rect x="45" y="45" width="10" height="30" fill="white" />
+  <rect x="35" y="55" width="30" height="10" fill="white" />
+</svg>

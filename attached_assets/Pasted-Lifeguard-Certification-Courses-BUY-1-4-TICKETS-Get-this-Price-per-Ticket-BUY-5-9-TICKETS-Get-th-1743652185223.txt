@@ -1,0 +1,44 @@
+Lifeguard Certification Courses	BUY 1-4 TICKETS & Get this Price per Ticket	BUY 5-9 TICKETS & Get this Price per Ticket	BUY 10-24 TICKETS & Get this Price per Ticket	BUY 25-49 TICKETS & Get this Price per Ticket	BUY 50-99 TICKETS & Get this Price per Ticket	BUY 100+ TICKETS & Get this Price per Ticket
+Junior Lifeguard	$125.00	$115.00	$105.00	$95.00	$85.00	$75.00
+Shallow Pool Lifeguard (max depth 5’)	$399.00	$319.00	$269.00	$209.00	$189.00	$169.00
+Shallow Pool + Youth Camp Lifeguard (max depth 5’)	$399.00	$319.00	$269.00	$209.00	$189.00	$169.00
+Swimming Pool Lifeguard (max depth 12’)	$449.00	$379.00	$329.00	$289.00	$239.00	$199.00
+Swimming Pool + Youth Camp Lifeguard (max depth 12’)	$449.00	$399.00	$349.00	$299.00	$249.00	$209.00
+Deep Pool Lifeguard (max depth 20’)	$479.00	$399.00	$349.00	$299.00	$249.00	$209.00
+Deep Pool + Youth Camp Lifeguard (max depth 20’)	$479.00	$399.00	$349.00	$299.00	$249.00	$209.00
+Waterfront Lifeguard / Beach Lifeguard	$479.00	$399.00	$349.00	$299.00	$249.00	$209.00
+Waterfront + Youth Camp Lifeguard	$479.00	$399.00	$349.00	$299.00	$249.00	$209.00
+Water Park Lifeguard	$479.00	$399.00	$349.00	$299.00	$249.00	$209.00
+Water Park + Youth Camp Lifeguard	$479.00	$399.00	$349.00	$299.00	$249.00	$209.00
+All Specialties Lifeguard	$479.00	$399.00	$349.00	$299.00	$249.00	$209.00
+Lifeguard Recertification / Renewal	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+Lifeguard Instructor	$499.00	$449.00	$399.00	$349.00	$299.00	$249.00
+Lifeguard Instructor Recertification / Renewal	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+Lifeguard Instructor Trainer (pre-requisite Lifeguard Instructor)	$499.00	$449.00	$399.00	$349.00	$299.00	$249.00
+Lifeguard Instructor Trainer Recertification / Renewal	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+Water Safety Swim Instructor Courses	BUY 1-4 TICKETS & Get this Price per Ticket	BUY 5-9 TICKETS & Get this Price per Ticket	BUY 10-24 TICKETS & Get this Price per Ticket	BUY 25-49 TICKETS & Get this Price per Ticket	BUY 50-99 TICKETS & Get this Price per Ticket	BUY 100+ TICKETS & Get this Price per Ticket
+Basic Water Safety	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+Basic Water Safety Recertification / Renewal	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+Water Safety Swim Instructor	$499.00	$449.00	$399.00	$349.00	$299.00	$249.00
+Water Safety Swim Instructor Recertification / Renewal	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+Water Safety Swim Instructor Trainer (pre-requisite Swim Instructor)	$499.00	$449.00	$399.00	$349.00	$299.00	$249.00
+Water Safety Swim Instructor Trainer Recertification / Renewal	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+Water Safety Swim Instructor Trainer Director (pre-requisite Water Safety Swim Instructor Trainer)	$499.00	$449.00	$399.00	$349.00	$299.00	$249.00
+Water Safety Swim Instructor Trainer Director Recertification / Renewal	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+CPR & First Aid Courses	BUY 1-4 TICKETS & Get this Price per Ticket	BUY 5-9 TICKETS & Get this Price per Ticket	BUY 10-24 TICKETS & Get this Price per Ticket	BUY 25-49 TICKETS & Get this Price per Ticket	BUY 50-99 TICKETS & Get this Price per Ticket	BUY 100+ TICKETS & Get this Price per Ticket
+CPR BLS for Healthcare Provider (Adult. Child & Infant with AED)	$99.00	$89.00	$79.00	$69.00	$59.00	$49.00
+CPR Recertification / Renewal	$99.00	$89.00	$79.00	$69.00	$59.00	$49.00
+First Aid	$99.00	$89.00	$79.00	$69.00	$59.00	$49.00
+First Aid Recertification / Renewal	$99.00	$89.00	$79.00	$69.00	$59.00	$49.00
+CPR BLS for Healthcare Provider & First Aid	$119.00	$109.00	$99.00	$89.00	$79.00	$69.00
+CPR BLS for Healthcare Provider & First Aid Recertification	$119.00	$109.00	$99.00	$89.00	$79.00	$69.00
+CPR BLS for Healthcare Provider & First Aid Instructor	$299.00	$289.00	$279.00	$269.00	$259.00	$249.00
+CPR BLS for Healthcare Provider & First Aid Instructor Recertification / Renewal	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+CPR BLS for Healthcare Provider & First Aid Instructor Trainer (pre-requisite CPR & First Aid Instructor)	$299.00	$289.00	$279.00	$269.00	$259.00	$249.00
+CPR BLS for Healthcare Provider & First Aid Instructor Trainer Recertification / Renewal	$199.00	$189.00	$179.00	$169.00	$159.00	$149.00
+Bloodborne Pathogens	$99.00	$89.00	$79.00	$69.00	$59.00	$49.00
+Oxygen Administrator	$99.00	$89.00	$79.00	$69.00	$59.00	$49.00
+Oxygen Administrator Instructor	$299.00	$289.00	$279.00	$269.00	$259.00	$249.00
+Oxygen Administrator Instructor Recertification / Renewal	$299.00	$289.00	$279.00	$269.00	$259.00	$249.00
+Certified Pool Operator Course	BUY 1-4 TICKETS & Get this Price per Ticket	BUY 5-9 TICKETS & Get this Price per Ticket	BUY 10-24 TICKETS & Get this Price per Ticket	BUY 25-49 TICKETS & Get this Price per Ticket	BUY 50-99 TICKETS & Get this Price per Ticket	BUY 100+ TICKETS & Get this Price per Ticket
+Certified Pool Operator (CPO)	$365.00	$365.00	$365.00	$365.00	$365.00	$365.00

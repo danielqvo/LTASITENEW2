@@ -1,0 +1,35 @@
+<svg width="1200" height="600" viewBox="0 0 1200 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky background -->
+  <rect width="1200" height="600" fill="#0082ce" />
+  
+  <!-- Darker water -->
+  <path d="M0,400 C200,380 400,420 600,400 C800,380 1000,420 1200,400 L1200,600 L0,600 Z" fill="#0068a5" />
+  <path d="M0,450 C200,430 400,470 600,450 C800,430 1000,470 1200,450 L1200,600 L0,600 Z" fill="#005190" />
+  <path d="M0,500 C200,480 400,520 600,500 C800,480 1000,520 1200,500 L1200,600 L0,600 Z" fill="#00417a" />
+  
+  <!-- Sun -->
+  <circle cx="1000" cy="100" r="60" fill="#f1c40f" />
+  <line x1="1000" y1="20" x2="1000" y2="0" stroke="#f1c40f" stroke-width="8" />
+  <line x1="1000" y1="180" x2="1000" y2="200" stroke="#f1c40f" stroke-width="8" />
+  <line x1="920" y1="100" x2="900" y2="100" stroke="#f1c40f" stroke-width="8" />
+  <line x1="1080" y1="100" x2="1100" y2="100" stroke="#f1c40f" stroke-width="8" />
+  <line x1="940" y1="40" x2="920" y2="20" stroke="#f1c40f" stroke-width="8" />
+  <line x1="1060" y1="160" x2="1080" y2="180" stroke="#f1c40f" stroke-width="8" />
+  <line x1="940" y1="160" x2="920" y2="180" stroke="#f1c40f" stroke-width="8" />
+  <line x1="1060" y1="40" x2="1080" y2="20" stroke="#f1c40f" stroke-width="8" />
+  
+  <!-- Beach -->
+  <path d="M0,400 L300,400 L250,600 L0,600 Z" fill="#f5deb3" />
+  
+  <!-- Lifeguard tower -->
+  <rect x="150" y="320" width="80" height="70" fill="#e74c3c" />
+  <rect x="165" y="390" width="50" height="50" fill="#c0392b" />
+  <rect x="185" y="390" width="10" height="90" fill="#a93226" />
+  <rect x="155" y="315" width="70" height="10" fill="#e67e22" />
+  <rect x="160" y="305" width="60" height="10" fill="#f39c12" />
+  
+  <!-- Lifeguard -->
+  <circle cx="190" cy="350" r="12" fill="#f5b041" /> <!-- Head -->
+  <rect x="185" y="362" width="10" height="18" fill="#f5b041" /> <!-- Body -->
+  <rect x="180" y="370" width="20" height="5" fill="#e74c3c" /> <!-- Red band -->
+</svg>
